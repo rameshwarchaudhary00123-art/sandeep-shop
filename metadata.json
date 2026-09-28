@@ -1,0 +1,6 @@
+{
+  "name": "DND Premium Boys Fashion",
+  "description": "Premium streetwear and boys' fashion store by Sandeep Jat & Chetan Sharma. Features baggy jeans, bell bottom jeans, oversized shirts, cargo pants, fixed rates, and complete admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
